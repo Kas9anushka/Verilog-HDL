@@ -1,0 +1,102 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/kumar/Documents/verilog learning/8_1mux
+T_opt
+!s110 1731238944
+VN`hIee6V<fVfeQc<ckP8A3
+04 11 4 work demux_behav fast 0
+=1-1091d1f00082-67309c20-2a4-b350
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.6d;65
+R0
+T_opt1
+!s110 1731239997
+VnB][aOZMQ69=eSg?Y?o_F0
+04 13 4 work demux_datflow fast 0
+=1-1091d1f00082-6730a03d-375-a00c
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1731240616
+VHe93QSS5j9ejICTzYG?fT0
+04 14 4 work demux_dataflow fast 0
+=1-1091d1f00082-6730a2a7-37c-3858
+R1
+R2
+n@_opt2
+R3
+vdemux_behav
+Z4 !s110 1731240268
+!i10b 1
+!s100 zoh0=R8b9:l8EdUdid[PG3
+I<Y3:zYCi9PQzK<03Oe5S=3
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dC:/Users/kumar/Desktop/VERILOG HDL
+w1731238819
+8C:/Users/kumar/Desktop/VERILOG HDL/demux_behav.v
+FC:/Users/kumar/Desktop/VERILOG HDL/demux_behav.v
+L0 1
+Z7 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z8 !s108 1731240268.000000
+!s107 C:/Users/kumar/Desktop/VERILOG HDL/demux_behav.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/kumar/Desktop/VERILOG HDL/demux_behav.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vdemux_dataflow
+!s110 1731240606
+!i10b 1
+!s100 NQ829K>XE5z`b6ldNo6Ko3
+Ibj11mz78NZeZ1B1hAR7@I1
+R5
+R6
+w1731240593
+8C:/Users/kumar/Desktop/VERILOG HDL/demux_dataflow.v
+FC:/Users/kumar/Desktop/VERILOG HDL/demux_dataflow.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1731240606.000000
+!s107 C:/Users/kumar/Desktop/VERILOG HDL/demux_dataflow.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/kumar/Desktop/VERILOG HDL/demux_dataflow.v|
+!i113 0
+R9
+R2
+vtestbench
+R4
+!i10b 1
+!s100 HEePzkIChG3]6:0Vz=zX]3
+IXQ5M`?68Qa<7a1R5=VM6=2
+R5
+R6
+w1731238869
+8C:/Users/kumar/Desktop/VERILOG HDL/testbench.v
+FC:/Users/kumar/Desktop/VERILOG HDL/testbench.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/kumar/Desktop/VERILOG HDL/testbench.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/kumar/Desktop/VERILOG HDL/testbench.v|
+!i113 0
+R9
+R2
